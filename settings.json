@@ -1,0 +1,13 @@
+{
+    "telemetry.telemetryLevel": "off",
+    "editor.wordWrap": "on",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.showSlider": "always",
+    "editor.insertSpaces": false,
+    "editor.dragAndDrop": false,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.autoSurround": "never",
+    "editor.autoClosingDelete": "never",
+    "extensions.ignoreRecommendations": true
+}
