@@ -9,5 +9,7 @@
     "editor.autoClosingQuotes": "never",
     "editor.autoSurround": "never",
     "editor.autoClosingDelete": "never",
-    "extensions.ignoreRecommendations": true
+    "extensions.ignoreRecommendations": true,
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false
 }
