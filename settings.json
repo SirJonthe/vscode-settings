@@ -11,5 +11,7 @@
     "editor.autoClosingDelete": "never",
     "extensions.ignoreRecommendations": true,
     "workbench.startupEditor": "none",
-    "workbench.tips.enabled": false
+    "workbench.tips.enabled": false,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true
 }
