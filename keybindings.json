@@ -2,6 +2,11 @@
 [
 	{
 		"key": "escape",
+		"command": "workbench.action.closeSidebar",
+		"when": "sideBarVisible"
+	},
+	{
+		"key": "escape",
 		"command": "workbench.action.closePanel",
 		"when": "panelVisible"
 	}
