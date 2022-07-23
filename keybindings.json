@@ -9,5 +9,10 @@
 		"key": "escape",
 		"command": "workbench.action.closePanel",
 		"when": "panelVisible"
+	},
+	{
+		"key": "escape",
+		"command": "hideSuggestWidget",
+		"when": "suggestWidgetVisible && textInputFocus"
 	}
 ]
