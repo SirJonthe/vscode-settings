@@ -10,7 +10,6 @@
     "editor.autoSurround": "never",
     "editor.autoClosingDelete": "never",
     "editor.comments.insertSpace": false,
-    "editor.smoothScrolling": true,
     "editor.copyWithSyntaxHighlighting": false,
     "extensions.ignoreRecommendations": true,
     "workbench.startupEditor": "none",
