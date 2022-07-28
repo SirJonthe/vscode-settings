@@ -11,6 +11,6 @@ macOS:
     (To be added)
 
 Windows:
-    (To be added)
+    `[DRIVE_LETTER]:\Users\[USERNAME]\AppData\Roaming\Code\User`
 
 The settings files can always be found by starting Visual Studio Code, going to `File > Preferences > Settings`, pressing the `Open Settings (JSON)` button in the top-right corner of the editor, and finally opening the Command Palette (default `Ctrl + Shift + P`) and running `File: Open Containing Folder`.
