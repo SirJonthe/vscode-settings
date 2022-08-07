@@ -20,5 +20,6 @@
     "workbench.tips.enabled": false,
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
-    "debug.onTaskErrors": "showErrors"
+    "debug.onTaskErrors": "showErrors",
+    "editor.experimental.stickyScroll.enabled": true
 }
