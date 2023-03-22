@@ -23,5 +23,6 @@
     "debug.onTaskErrors": "showErrors",
     "editor.experimental.stickyScroll.enabled": true,
     "editor.stickyScroll.enabled": true,
-    "explorer.confirmDragAndDrop": false
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editor.untitled.hint": "hidden"
 }
