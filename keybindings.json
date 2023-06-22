@@ -7,6 +7,11 @@
 	},
 	{
 		"key": "escape",
+		"command": "workbench.action.closeAuxiliaryBar",
+		"when": "auxiliaryBarVisible"
+	},
+	{
+		"key": "escape",
 		"command": "hideSuggestWidget",
 		"when": "suggestWidgetVisible && textInputFocus"
 	}
