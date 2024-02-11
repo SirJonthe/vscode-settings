@@ -24,5 +24,7 @@
     "editor.experimental.stickyScroll.enabled": true,
     "editor.stickyScroll.enabled": true,
     "explorer.confirmDragAndDrop": false,
-    "workbench.editor.untitled.hint": "hidden"
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.verticalScrollbarSize": 0
 }
