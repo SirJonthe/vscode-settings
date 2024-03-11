@@ -26,5 +26,6 @@
     "explorer.confirmDragAndDrop": false,
     "workbench.editor.untitled.hint": "hidden",
     "editor.scrollbar.vertical": "hidden",
-    "editor.scrollbar.verticalScrollbarSize": 0
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "workbench.tree.indent": 24
 }
